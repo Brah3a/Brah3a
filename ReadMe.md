@@ -11,7 +11,6 @@ IT Professional | Systems Administrator | Cybersecurity Enthusiast
 - System Administration & IT Support
 - Network Configuration & Monitoring
 - Web Application Security & Penetration Testing
-- Linux Administration
 - Vulnerability Assessment & Bug Bounty Hunting
 
 **Tools**
@@ -22,8 +21,10 @@ IT Professional | Systems Administrator | Cybersecurity Enthusiast
 
 **Projects**
 - SIEM Monitoring Lab   ([Wazuh](https://github.com/Brah3a/Wazuh-SOC-Lab))
-- Web Application Security Testing Lab ([Pentset Projects](https://github.com/Brah3a/Projects), and [Bug Discoveries](https://github.com/Brah3a/Stored-XSS-SVG-File-Upload-PoC))
+- Web Application Security Testing Lab ([Pentset Projects](https://github.com/Brah3a/Projects)
+- Vulnerability Scanning Project [Bug Discoveries](https://github.com/Brah3a/Stored-XSS-SVG-File-Upload-PoC))
 - IT & System Admin Projects
+You can find all my projects in the [Repository](https://github.com/Brah3a?tab=repositories) section.
 
 **Certifications** 
 - [List of all Certifications including hackthon participations and CTF Winning](https://github.com/Brah3a/Projects/tree/main/Certificates)
