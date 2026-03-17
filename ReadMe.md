@@ -1,4 +1,4 @@
-# Hi, I'm Raghu
+# Hi, I'm Brahma Reddy
 IT Professional | Systems Administrator | Cybersecurity Enthusiast
 
 **About Me**
