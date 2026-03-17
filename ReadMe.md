@@ -37,5 +37,5 @@ You can find all my projects in the [Repository](https://github.com/Brah3a?tab=r
 [brah3a.vercel.app](https://brah3a.vercel.app)
 
 **Contact**
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/brahma-reddy-00bb30279/)
+- LinkedIn: [linkedin.com/in/brahma-reddy](https://www.linkedin.com/in/brahma-reddy-00bb30279/)
 - Email: 1729.brahma@gmail.com
