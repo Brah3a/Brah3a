@@ -22,12 +22,13 @@ IT Professional | Systems Administrator | Cybersecurity Enthusiast
 **Projects**
 - SIEM Monitoring Lab   ([Wazuh](https://github.com/Brah3a/Wazuh-SOC-Lab))
 - Web Application Security Testing Lab ([Pentset Projects](https://github.com/Brah3a/Projects))
-- Vulnerability Scanning Project [Bug Discoveries](https://github.com/Brah3a/Stored-XSS-SVG-File-Upload-PoC)))
+- Vulnerability Scanning Project ([Bug Discoveries](https://github.com/Brah3a/Stored-XSS-SVG-File-Upload-PoC)))
 - IT & System Admin Projects <br>
+
 You can find all my projects in the [Repository](https://github.com/Brah3a?tab=repositories) section.
 
 **Certifications** 
-- [List of all Certifications including hackthon participations and CTF Winning](https://github.com/Brah3a/Projects/tree/main/Certificates)
+- List of all [Certifications](https://github.com/Brah3a/Projects/tree/main/Certificates) including hackthon participations and CTF Winning]
 - IT HelpDesk  - TCMSecurity
 - Data Analyst – ICMR NIRT
 - Server Administration  - Alison 
