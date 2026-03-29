@@ -1,5 +1,5 @@
 # Hi, I'm Brahma Reddy
-IT Professional | Systems Administrator | Cybersecurity Enthusiast
+IT Professional | System Administrator | Cyber Security Analyst
 
 **About Me**
 - B.Sc Computer Science Graduate
