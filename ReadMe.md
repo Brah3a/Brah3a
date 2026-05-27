@@ -11,7 +11,6 @@ IT Professional | System Administrator | Cyber Security Analyst
 - System Administration & IT Support
 - Network Configuration & Monitoring
 - Web Application Security & Penetration Testing
-- Vulnerability Assessment & Bug Bounty Hunting
 
 **Tools**
 - Burp Suite, OWASP ZAP
